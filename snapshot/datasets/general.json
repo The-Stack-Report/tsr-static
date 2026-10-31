@@ -1,0 +1,47 @@
+[
+ {
+  "identifier": "the-stack-report--tezos-blocks-daily-statistics",
+  "title": null,
+  "type": null,
+  "format": null,
+  "file_size": null,
+  "last_update": null,
+  "url": null
+ },
+ {
+  "identifier": "the-stack-report--tezos-accounts-index",
+  "title": "Tezos accounts index",
+  "type": "Index",
+  "format": "CSV",
+  "file_size": 238.088,
+  "last_update": "2025-02-05T08:17:07.825000Z",
+  "url": "https://the-stack-report.ams3.digitaloceanspaces.com/datasets/tezos/chain/indexes/tezos-accounts-index.csv"
+ },
+ {
+  "identifier": "the-stack-report--tezos-daily-chain-stats",
+  "title": "Tezos daily chain stats",
+  "type": null,
+  "format": null,
+  "file_size": "518.0KiB",
+  "last_update": null,
+  "url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/chain/tezos-daily-chain-stats.csv"
+ },
+ {
+  "identifier": "the-stack-report--tezos-entrypoints-rich-statistics-index",
+  "title": "Tezos entrypoints rich statistics index",
+  "type": "Index",
+  "format": "CSV",
+  "file_size": 0.431,
+  "last_update": "2023-08-21T19:16:30.407000Z",
+  "url": "https://the-stack-report.ams3.digitaloceanspaces.com/datasets/tezos/chain/indexes/tezos-entrypoints-rich-statistics-index.csv"
+ },
+ {
+  "identifier": "the-stack-report--tezos-entrypoints-index",
+  "title": "Tezos smart contract entrypoints index",
+  "type": "Index",
+  "format": "CSV",
+  "file_size": 0.206,
+  "last_update": "2025-02-05T08:37:25.628000Z",
+  "url": "https://the-stack-report.ams3.digitaloceanspaces.com/datasets/tezos/chain/indexes/tezos-entrypoints-index.csv"
+ }
+]

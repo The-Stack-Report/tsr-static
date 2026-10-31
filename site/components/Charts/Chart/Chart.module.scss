@@ -1,0 +1,19 @@
+.chart {
+    position: relative;
+    user-select: none;
+    svg {
+        overflow: visible;
+        pointer-events: none;
+    }
+    .tooltip-group {
+        transition: transform 0.1s;
+        .value-mark {
+            transition: transform 0.1s;
+        }
+    }
+
+    .tooltip-labels-box {
+        z-index: 10;
+        transition: left 0.1s;
+    }
+}

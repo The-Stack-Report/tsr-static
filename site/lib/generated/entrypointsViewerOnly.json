@@ -1,0 +1,23 @@
+[
+ "AddLiquidity",
+ "AdminOperation",
+ "ChangeAdmin",
+ "Mint",
+ "Swap",
+ "Transfer",
+ "WithdrawFee",
+ "addadmin",
+ "changeState",
+ "changestate",
+ "getReward",
+ "mintNft",
+ "mint_item",
+ "modifyFee",
+ "registerFa2",
+ "removeLiquidity",
+ "setMetadata",
+ "set_fa2",
+ "update_Admin",
+ "update_Price",
+ "withdrawFunds"
+]

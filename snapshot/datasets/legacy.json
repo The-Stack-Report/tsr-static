@@ -1,0 +1,171 @@
+[
+ {
+  "_id": "61d5fa8b51fa731e343a5a4f",
+  "key": "test-dataset",
+  "tags": [
+   "testing",
+   "contract",
+   "index"
+  ],
+  "spaces_path": "datasets/tests/contracts_index.csv",
+  "cache_file_path": "indices/contracts_index.csv",
+  "upload_date": "2022-03-30T08:27:26.911000Z",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tests/contracts_index.csv",
+  "title": "Test dataset 2022-03-30"
+ },
+ {
+  "_id": "61f5931763251c45f3f3989b",
+  "key": "top-100-contracts-daily-stats-full-length",
+  "tags": [
+   "contracts",
+   "tezos"
+  ],
+  "spaces_path": "datasets/tezos/daily/top_100_contracts_daily_stats_full_length.csv",
+  "cache_file_path": "top_100_contracts_daily_stats_full_test.csv",
+  "upload_date": "2022-01-31T00:24:54.500000Z",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/daily/top_100_contracts_daily_stats_full_length.csv",
+  "title": "Top 100 Tezos contracts daily stats full length"
+ },
+ {
+  "_id": "61f72257c8056c2af28b2477",
+  "key": "top-100-contracts-daily-stats-full",
+  "tags": [
+   "contracts",
+   "tezos"
+  ],
+  "spaces_path": "datasets/tezos/daily/2022-03-30/top_100_contracts_daily_stats_full.csv",
+  "cache_file_path": "top_100_contracts_daily_stats_full.csv",
+  "upload_date": "2022-03-30T08:27:26.911000Z",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/daily/2022-03-30/top_100_contracts_daily_stats_full.csv",
+  "title": "Top 100 Tezos contracts daily stats full 2022-03-30"
+ },
+ {
+  "_id": "61f7a7b71a59c2b880716812",
+  "key": "top-100-contracts-daily-stats-last-60-days",
+  "tags": [
+   "contracts",
+   "tezos"
+  ],
+  "spaces_path": "datasets/tezos/daily/2022-03-30/top_100_contracts_daily_stats_last_60_days.csv",
+  "cache_file_path": "top_100_contracts_daily_stats_60_days.csv",
+  "upload_date": "2022-03-30T08:27:26.911000Z",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/daily/2022-03-30/top_100_contracts_daily_stats_last_60_days.csv",
+  "title": "top 100 contracts daily stats for the past 60 days",
+  "description": "xyz123",
+  "coverage": "Tezos"
+ },
+ {
+  "_id": "61f7a7b71a59c2b880716813",
+  "key": "top-100-contracts-daily-stats-last-90-days",
+  "tags": [
+   "contracts",
+   "tezos"
+  ],
+  "spaces_path": "datasets/tezos/daily/2022-03-30/top_100_contracts_daily_stats_last_90_days.csv",
+  "cache_file_path": "top_100_contracts_daily_stats_90_days.csv",
+  "upload_date": "2022-03-30T08:27:26.911000Z",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/daily/2022-03-30/top_100_contracts_daily_stats_last_90_days.csv"
+ },
+ {
+  "_id": "61f7a7b71a59c2b880716814",
+  "key": "top-100-contracts-daily-stats-last-180-days",
+  "tags": [
+   "contracts",
+   "tezos"
+  ],
+  "spaces_path": "datasets/tezos/daily/2022-03-30/top_100_contracts_daily_stats_last_180_days.csv",
+  "cache_file_path": "top_100_contracts_daily_stats_180_days.csv",
+  "upload_date": "2022-03-30T08:27:26.911000Z",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/daily/2022-03-30/top_100_contracts_daily_stats_last_180_days.csv"
+ },
+ {
+  "_id": "61f7a7b71a59c2b880716815",
+  "key": "top-100-contracts-daily-stats-last-365-days",
+  "tags": [
+   "contracts",
+   "tezos"
+  ],
+  "spaces_path": "datasets/tezos/daily/2022-03-30/top_100_contracts_daily_stats_last_365_days.csv",
+  "cache_file_path": "top_100_contracts_daily_stats_365_days.csv",
+  "upload_date": "2022-03-30T08:27:26.911000Z",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/daily/2022-03-30/top_100_contracts_daily_stats_last_365_days.csv"
+ },
+ {
+  "_id": "61f8357fd9b833b0aa86e881",
+  "key": "transactions-daily-stats-full",
+  "tags": [
+   "contracts",
+   "tezos"
+  ],
+  "spaces_path": "datasets/tezos/daily/2022-03-30/transactions_daily_stats_full.csv",
+  "cache_file_path": "transaction_aggregates_by_day.csv",
+  "upload_date": "2022-03-30T08:27:26.911000Z",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/daily/2022-03-30/transactions_daily_stats_full.csv"
+ },
+ {
+  "_id": "61fae4205ae010536340225c",
+  "key": "tezos-usage-stats-full",
+  "tags": [
+   "usage",
+   "tezos"
+  ],
+  "spaces_path": "datasets/tezos/daily/2022-03-30/tezos_usage_stats_full.csv",
+  "cache_file_path": "transaction_aggregates_by_day.csv",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/daily/2022-03-30/tezos_usage_stats_full.csv",
+  "upload_date": "2022-03-30T08:27:26.911000Z",
+  "params": {
+   "test": "test"
+  },
+  "title": "Tezos usage stats full 2022-03-30"
+ },
+ {
+  "_id": "621f14bbd61cabf08e27d82d",
+  "key": "daily-stats-merged-stats-full",
+  "tags": [
+   "daily",
+   "tezos"
+  ],
+  "spaces_path": "datasets/tezos/daily/2022-03-30/tezos_daily_stats_merged_full.csv",
+  "cache_file_path": "daily_stats_merged.csv",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/daily/2022-03-30/tezos_daily_stats_merged_full.csv",
+  "upload_date": "2022-03-30T08:27:26.911000Z"
+ },
+ {
+  "_id": "621f17b76d4cb8d8393961ef",
+  "key": "entrypoints-daily-stats-full",
+  "tags": [
+   "daily",
+   "tezos",
+   "entrypoints"
+  ],
+  "spaces_path": "datasets/tezos/daily/2022-03-30/entrypoints_daily_stats_full.csv",
+  "cache_file_path": "entrypoints_daily_stats.csv",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/daily/2022-03-30/entrypoints_daily_stats_full.csv",
+  "upload_date": "2022-03-30T08:27:26.911000Z"
+ },
+ {
+  "_id": "62343685da404c458f2b02b6",
+  "key": "transactions-all",
+  "tags": [
+   "tezos",
+   "transactions"
+  ],
+  "spaces_path": "datasets/tezos/transactions/2022-03-18/transactions_all.csv",
+  "cache_file_path": "merged/transactions/transactions_all.csv",
+  "upload_date": "2022-03-18T08:36:33.901000Z",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/transactions/2022-03-18/transactions_all.csv"
+ },
+ {
+  "_id": "62390c87f2b20783d52ab07c",
+  "key": "transactions-weekly-stats",
+  "tags": [
+   "weekly",
+   "tezos",
+   "transactions"
+  ],
+  "spaces_path": "datasets/tezos/daily/2022-03-30/transactions_weekly_stats.csv",
+  "cache_file_path": "transactions_weekly_stats.csv",
+  "upload_date": "2022-03-30T08:27:26.911000Z",
+  "spaces_url": "https://the-stack-report.ams3.cdn.digitaloceanspaces.com/datasets/tezos/daily/2022-03-30/transactions_weekly_stats.csv"
+ }
+]

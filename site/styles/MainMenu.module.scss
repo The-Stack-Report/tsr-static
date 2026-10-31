@@ -1,0 +1,47 @@
+.main-menu {
+    border-bottom: 1px solid rgba(200,200,200,1);
+    background: rgba(255,255,255,1);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    z-index: 1000;
+    h1 {
+        font-size: 0.9rem;
+        font-weight: 500;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin: 0px;
+        padding: 10px;
+        span {
+            margin-left: 20px;
+            font-weight: 300;
+            @media screen and (max-width: 768px) {
+                display: none;
+            }
+        }
+    }
+
+    .ticker-container {
+        max-width: 100%;
+        overflow: hidden;
+        border-top:  1px solid rgba(200,200,200,1);
+    }
+
+    .wallet-menu-widget-container {
+        height: 0px;
+        overflow: visible;
+        position: relative;
+    }
+}
+
+
+.links-section {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    @media screen and (max-width: 768px) {
+        display: none;
+    }
+      
+}

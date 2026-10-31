@@ -1,0 +1,18 @@
+[
+ {
+  "id": 1,
+  "attributes": {
+   "full_name": "Erwin Hoogerwoord",
+   "first_name": "Erwin",
+   "last_name": "Hoogerwoord",
+   "profile_pic_url": null,
+   "twitter": "@hoogerwoord",
+   "tezos_wallet": "tz1YrK7QyFkTK2o68LnQcmbtBU1vMhy7TdK1",
+   "role": "Creator",
+   "bio": "I'm founder and creator of The Stack Report. Passionate about generative art, design, data visualisation, growing the (digital) creative community. HEN Creator, Tezzard nr 1383. ",
+   "createdAt": "2022-01-13T11:09:17.003Z",
+   "updatedAt": "2022-01-13T11:18:07.526Z",
+   "publishedAt": "2022-01-13T11:18:07.518Z"
+  }
+ }
+]

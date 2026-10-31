@@ -1,0 +1,13 @@
+# Raw database exports and the original source must never be committed.
+/source/
+../source/
+*.jsonl
+.env*
+
+# Build output
+site/node_modules/
+site/.next/
+site/out/
+
+.DS_Store
+__pycache__/
